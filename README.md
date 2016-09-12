@@ -1,4 +1,4 @@
-# Statistical Analysis with Excel
+# Statistical Analysis and Regresiion Model  with Excel
 # Boston Housing Data set
 
 Description of project:
