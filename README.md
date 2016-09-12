@@ -1,4 +1,5 @@
-# R-Project
+# Statistical Analysis with Excel
+# Boston Housing Data set
 
 Description of project:
 
